@@ -1,0 +1,11 @@
+StudentID,FullName,Gender,Age,Score,Attendance,Participation
+1,Alice Johnson,Female,20,85.0,90,Yes
+2,Bob Smith,Male,21,90.0,95,No
+3,Charlie Rose,Male,19,,85,Yes
+4,David Brown,Male,22,88.0,88,Yes
+5,Eva Green,Female,20,76.0,70,No
+6,Frank White,Male,21,95.0,98,Yes
+7,Grace Black,Female,23,67.0,60,No
+8,Henry Blue,Male,20,72.0,75,No
+9,Isla Pink,Female,19,100.0,100,Yes
+10,Jack Purple,Male,21,59.0,65,No
